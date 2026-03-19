@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Machine Learning & Logs
+catboost_info/
+lightning_logs/
+
+# Data
+data/*.tsf
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
